@@ -8,6 +8,7 @@ Docker-Compose是一个部署多个容器的简单但是非常必要的工具.
 
 1、首先检查linux有没有安装python-pip包，终端执行 pip -V
 
+	$yum -y install epel-release
     $pip -V
 
 3、执行成功之后，再次执行yum -y install python-pip
