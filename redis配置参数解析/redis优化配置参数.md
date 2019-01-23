@@ -528,3 +528,6 @@ AOF 则以协议文本的方式，将所有对数据库进行过写入的命令�
     // cluster配置文件(启动自动生成)  
     cluster-config-file nodes-6379.conf  
     
+
+
+参考链接：http://blog.51yip.com/nosql/1724.html
